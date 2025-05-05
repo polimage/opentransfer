@@ -1,0 +1,19 @@
+site_name: Open Transfer
+site_url: https://opentransfer.org/
+
+nav:
+  - Über das Projekt: index.md
+  - Open Hardware:
+    - Open Hardware 01: openhardware.md
+    - Open Hardware 02: openhardware_bd.md
+  - Glossar: glossar.md
+  - Mindmap: mindmap.md
+  - Kontakt: kontakt.md
+  - Impressum: impressum.md
+#  - mkdocs: mkdocs.md
+
+theme: 
+  name: material 
+  palette:
+   scheme: default
+   primary: grey
