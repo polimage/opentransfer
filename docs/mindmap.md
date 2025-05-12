@@ -9,11 +9,11 @@ Status <br>
 	Erzeugt mit AFFINE <br>
 	<br>
 
-Test <br>
+Testumgebung <br>
 	Umzug von AFFINE auf git.gsi ? <br>
 	Unterseiten mit sich aktualisierenden MD-Docs <br>
 	
 Wünsche
-	automatisch aktualiserte Text-Docs auf github
+	automatisch aktualiserte Text-Docs auf github -> git pages noch nicht aktiv
 
 
