@@ -17,7 +17,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
         server: ${{ ssh.strato.de }}
-        username: ${{ secrets.FTP_USERNAME }}
+        username: ${{ open@albrecht.photos }}
         password: ${{ secrets.FTP_PASSWORD }}
         protocol: ftp
         local-dir: ./  # <--- ggf. Pfad anpassen (z. B. ./dist/ oder ./public/)
