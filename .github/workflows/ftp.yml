@@ -13,4 +13,4 @@ jobs:
       with:
         server: ssh.strato.de
         username: open@albrecht.photos
-        password: ${{ secrets.ftp_password }}
+        password: ${{ secrets.Open_TTR*25 }}
