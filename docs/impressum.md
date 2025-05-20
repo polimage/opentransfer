@@ -6,4 +6,4 @@
 **Datenschutz**<br>
 <https://www.gsi.de/datenschutz> 
 
-**Cookies haben wir nur mit Schokolade**<br>
+**Cookies haben wir nur mit Schokolade – ohne Milch**<br>
