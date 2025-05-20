@@ -5,3 +5,5 @@
 
 **Datenschutz**<br>
 <https://www.gsi.de/datenschutz> 
+
+**Cookies haben wir nur mit Schokolade**<br>
